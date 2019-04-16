@@ -8,10 +8,12 @@
     display:none
 }
 
+#main h2,
 #main h3,
 #main h4,
 #main h5{
-    font-size:24px
+    font-size:24px;
+    font-weight:300
 }
 
 #main .accessible .level-0 h2,
