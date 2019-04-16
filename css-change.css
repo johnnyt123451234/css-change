@@ -1,0 +1,46 @@
+#main{
+    padding:0;
+    font-family:'Open Sans', sans-serif;
+    font-weight:300
+}
+
+#main h1:not(app-title){
+    display:none
+}
+
+#main h3,
+#main h4,
+#main h5{
+    font-size:24px
+}
+
+#main .accessible .level-0 h2,
+#main .accessible .level-0 h3,
+#main .accessible .level-0 h4,
+#main .accessible .level-0 h5,
+#main .accessible .level-0 h6,
+#main .app-title h1,
+#main strong{
+    font-weight:300
+}
+
+#main #board_title{
+    text-align:center;
+    font-size:48px
+}
+
+#main .opening a{
+    font-weight:300
+}
+
+#main span{
+    font-weight:300 !important
+}
+
+#app_body{
+    max-width:100%
+}
+
+#application{
+    margin:60px auto 0
+}
